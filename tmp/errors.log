@@ -1,0 +1,128 @@
+[2021-02-09 19:26:44] ErrorText: Page not FOUND | File: /var/www/html/watchshop/public/index.php | Line: 9
+---------------
+[2021-02-09 19:27:04] ErrorText: Page not FOUND | File: /var/www/html/watchshop/public/index.php | Line: 9
+---------------
+[2021-02-09 19:27:24] ErrorText: Page not FOUND | File: /var/www/html/watchshop/public/index.php | Line: 9
+---------------
+[2021-02-09 19:28:00] ErrorText: Page not FOUND | File: /var/www/html/watchshop/public/index.php | Line: 9
+---------------
+[2021-02-09 19:28:12] ErrorText: Page not FOUND | File: /var/www/html/watchshop/public/index.php | Line: 9
+---------------
+[2021-02-09 19:28:19] ErrorText: Page not FOUND | File: /var/www/html/watchshop/public/index.php | Line: 9
+---------------
+[2021-02-09 19:42:31] ErrorText: Page not FOUND | File: /var/www/html/watchshop/public/index.php | Line: 9
+---------------
+[2021-02-09 19:42:31] ErrorText: Page not FOUND | File: /var/www/html/watchshop/public/index.php | Line: 9
+---------------
+[2021-02-09 19:42:31] ErrorText: Page not FOUND | File: /var/www/html/watchshop/public/index.php | Line: 9
+---------------
+[2021-02-09 19:42:32] ErrorText: Page not FOUND | File: /var/www/html/watchshop/public/index.php | Line: 9
+---------------
+[2021-02-09 19:42:41] ErrorText: Page not FOUND | File: /var/www/html/watchshop/public/index.php | Line: 9
+---------------
+[2021-02-09 19:43:18] ErrorText: Page not FOUND | File: /var/www/html/watchshop/public/index.php | Line: 9
+---------------
+[2021-02-09 19:43:19] ErrorText: Page not FOUND | File: /var/www/html/watchshop/public/index.php | Line: 9
+---------------
+[2021-02-09 19:43:19] ErrorText: Page not FOUND | File: /var/www/html/watchshop/public/index.php | Line: 9
+---------------
+[2021-02-09 19:43:33] ErrorText: Page not FOUND | File: /var/www/html/watchshop/public/index.php | Line: 9
+---------------
+[2021-02-09 19:43:42] ErrorText: Page not FOUND | File: /var/www/html/watchshop/public/index.php | Line: 9
+---------------
+[2021-02-09 19:43:42] ErrorText: Page not FOUND | File: /var/www/html/watchshop/public/index.php | Line: 9
+---------------
+[2021-02-09 20:36:28] ErrorText: Page not FOUND | File: /var/www/html/watchshop/public/index.php | Line: 9
+---------------
+[2021-02-09 20:36:35] ErrorText: Page not FOUND | File: /var/www/html/watchshop/public/index.php | Line: 9
+---------------
+[2021-02-09 21:45:50] ErrorText: Too few arguments to function watchshop\Router::matchRoute(), 0 passed in /var/www/html/watchshop/vendor/watchshop/core/Router.php on line 24 and exactly 1 expected | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 31
+---------------
+[2021-02-09 21:45:51] ErrorText: Too few arguments to function watchshop\Router::matchRoute(), 0 passed in /var/www/html/watchshop/vendor/watchshop/core/Router.php on line 24 and exactly 1 expected | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 31
+---------------
+[2021-02-09 21:45:52] ErrorText: Too few arguments to function watchshop\Router::matchRoute(), 0 passed in /var/www/html/watchshop/vendor/watchshop/core/Router.php on line 24 and exactly 1 expected | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 31
+---------------
+[2021-02-09 21:45:52] ErrorText: Too few arguments to function watchshop\Router::matchRoute(), 0 passed in /var/www/html/watchshop/vendor/watchshop/core/Router.php on line 24 and exactly 1 expected | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 31
+---------------
+[2021-02-09 21:45:52] ErrorText: Too few arguments to function watchshop\Router::matchRoute(), 0 passed in /var/www/html/watchshop/vendor/watchshop/core/Router.php on line 24 and exactly 1 expected | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 31
+---------------
+[2021-02-10 11:40:47] ErrorText: Page nod found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 27
+---------------
+[2021-02-10 11:42:15] ErrorText: Page nod found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 27
+---------------
+[2021-02-10 11:45:51] ErrorText: Page nod found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 27
+---------------
+[2021-02-10 11:46:22] ErrorText: Page nod found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 27
+---------------
+[2021-02-10 11:48:59] ErrorText: Page nod found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 27
+---------------
+[2021-02-10 12:02:34] ErrorText: Class 'app\controllers\PageController' not found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 27
+---------------
+[2021-02-10 12:02:35] ErrorText: Class 'app\controllers\PageController' not found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 27
+---------------
+[2021-02-10 12:02:36] ErrorText: Class 'app\controllers\PageController' not found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 27
+---------------
+[2021-02-10 12:02:36] ErrorText: Class 'app\controllers\PageController' not found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 27
+---------------
+[2021-02-10 12:02:36] ErrorText: Class 'app\controllers\PageController' not found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 27
+---------------
+[2021-02-10 12:06:49] ErrorText: Class 'app\controllers\MainController' not found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 27
+---------------
+[2021-02-10 12:07:34] ErrorText: Class app\controllers\MainController nod found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 35
+---------------
+[2021-02-10 12:08:00] ErrorText: Class app\controllers\MainController nod found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 35
+---------------
+[2021-02-10 12:08:01] ErrorText: Class app\controllers\MainController nod found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 35
+---------------
+[2021-02-10 12:08:38] ErrorText: Class app\controllers\MainController nod found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 35
+---------------
+[2021-02-10 12:08:38] ErrorText: Class app\controllers\MainController nod found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 35
+---------------
+[2021-02-10 12:08:39] ErrorText: Class app\controllers\MainController nod found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 35
+---------------
+[2021-02-10 12:08:39] ErrorText: Class app\controllers\MainController nod found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 35
+---------------
+[2021-02-10 12:08:39] ErrorText: Class app\controllers\MainController nod found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 35
+---------------
+[2021-02-10 12:10:11] ErrorText: Class app\controllers\MainController nod found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 35
+---------------
+[2021-02-10 12:10:11] ErrorText: Class app\controllers\MainController nod found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 35
+---------------
+[2021-02-10 12:10:11] ErrorText: Class app\controllers\MainController nod found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 35
+---------------
+[2021-02-10 12:10:12] ErrorText: Class app\controllers\MainController nod found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 35
+---------------
+[2021-02-10 12:10:12] ErrorText: Class app\controllers\MainController nod found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 35
+---------------
+[2021-02-10 12:11:10] ErrorText: Class app\controllers\MainController nod found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 35
+---------------
+[2021-02-10 12:11:10] ErrorText: Class app\controllers\MainController nod found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 35
+---------------
+[2021-02-10 12:11:11] ErrorText: Class app\controllers\MainController nod found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 35
+---------------
+[2021-02-10 12:11:11] ErrorText: Class app\controllers\MainController nod found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 35
+---------------
+[2021-02-10 12:11:11] ErrorText: Class app\controllers\MainController nod found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 35
+---------------
+[2021-02-10 12:12:16] ErrorText: Class app\controllers\MainController nod found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 35
+---------------
+[2021-02-10 12:12:16] ErrorText: Class app\controllers\MainController nod found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 35
+---------------
+[2021-02-10 12:12:16] ErrorText: Class app\controllers\MainController nod found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 35
+---------------
+[2021-02-10 12:13:38] ErrorText: Class <i>app\controllers\MainController</i> nod found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 35
+---------------
+[2021-02-10 12:14:58] ErrorText: Method app\controllers\PageController::indexAction nod found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 32
+---------------
+[2021-02-10 12:14:58] ErrorText: Method app\controllers\PageController::indexAction nod found | File: /var/www/html/watchshop/vendor/watchshop/core/Router.php | Line: 32
+---------------
+[2021-02-10 14:11:26] ErrorText: View not found /var/www/html/watchshop/app/view/Main/index.php | File: /var/www/html/watchshop/vendor/watchshop/core/base/View.php | Line: 36
+---------------
+[2021-02-10 14:11:35] ErrorText: View not found /var/www/html/watchshop/app/view/Main/index.php | File: /var/www/html/watchshop/vendor/watchshop/core/base/View.php | Line: 36
+---------------
+[2021-02-10 14:12:05] ErrorText: View not found /var/www/html/watchshop/app/view/Main/index.php | File: /var/www/html/watchshop/vendor/watchshop/core/base/View.php | Line: 36
+---------------
+[2021-02-10 14:17:09] ErrorText: Layout not found default | File: /var/www/html/watchshop/vendor/watchshop/core/base/View.php | Line: 45
+---------------
+[2021-02-10 14:19:21] ErrorText: Layout not found default | File: /var/www/html/watchshop/vendor/watchshop/core/base/View.php | Line: 45
+---------------
